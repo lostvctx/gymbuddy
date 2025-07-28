@@ -1,0 +1,15 @@
+git commit -m "first commit"
+diz o que foi feito na atualização
+
+git add README.md
+adiciona um arquivo ou atualizações
+
+git branch -M main
+cria uma nova branch(posição na nossa empresa)
+
+git remote add origin "link"
+adiciona o repositório na pasta
+
+git push -u origin main
+Sobe a atualização final para a branch(master) ou a branch criada
+
